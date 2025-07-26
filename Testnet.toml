@@ -1,0 +1,7 @@
+[network]
+name = "testnet"
+stacks_node_rpc_address = "https://api.testnet.hiro.so"
+deployment_fee_rate = 10
+
+[accounts.deployer]
+mnemonic = "happy spawn dinosaur legend fringe average envelope throw later angry hill used toast lava cupboard one actual silent cattle client rebel cube face kiwi"
