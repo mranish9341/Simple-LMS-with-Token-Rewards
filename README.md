@@ -18,5 +18,6 @@ To provide a decentralized and transparent e-learning platform where users are r
 
 ## 5. Contract Address
 > **Contract Address (Example)**:
-> `
+> STTAQ3MBC5MFV203W09TZMX87S3XJE22GGWQSBJP.Simple-LMS-with-Token-Rewards`
 
+![Screenshot_26-7-2025_14370_explorer hiro so](https://github.com/user-attachments/assets/c00f790b-5e10-4eaa-b321-675591a00f1d)
